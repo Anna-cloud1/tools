@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Anna-cloud1/tools/issues"
   },
-  "homepage": "https://github.com/Anna-cloud1/tools#readme"
+  "homepage": "https://github.com/Anna-cloud1/tools#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0"
+  }
 }
